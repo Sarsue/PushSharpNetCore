@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="PushSharp.Apple\AppleNotification.cs" />
+    <Compile Remove="PushSharp.Apple\obj\Debug\netstandard2.0\PushSharp.Apple.AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="PushSharp.Apple\obj\PushSharp.Apple.csproj.nuget.cache" />
+    <None Remove="PushSharp.Apple\obj\PushSharp.Apple.csproj.nuget.g.props" />
+    <None Remove="PushSharp.Apple\obj\PushSharp.Apple.csproj.nuget.g.targets" />
+    <None Remove="PushSharp.Apple\obj\project.assets.json" />
+    <None Remove="PushSharp.Apple\obj\Debug\netstandard2.0\PushSharp.Apple.csprojResolveAssemblyReference.cache" />
+    <None Remove="PushSharp.Apple\obj\Debug\netstandard2.0\PushSharp.Apple.csproj.CoreCompileInputs.cache" />
+    <None Remove="PushSharp.Apple\obj\Debug\netstandard2.0\PushSharp.Apple.AssemblyInfoInputs.cache" />
+    <None Remove="PushSharp.Apple\obj\Debug\netstandard2.0\PushSharp.Apple.csproj.FileListAbsolute.txt" />
+  </ItemGroup>
+</Project>

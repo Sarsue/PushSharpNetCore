@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChannelScaleAction.cs">
+    <Files>
+      <File FileName="PushServiceBase.cs" Line="313" Column="36" />
+      <File FileName="ChannelScaleAction.cs" Line="4" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PushSharp.Core" expanded="True">
+            <Node name="PushSharp.Apple" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" selected="True" />
+              </Node>
+            </Node>
+            <Node name="PushSharp.Core" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mro/dev/PushSharp.Core/obj/Debug/netstandard2.0/PushSharp.Core.AssemblyInfo.cs" relfile="obj/Debug/netstandard2.0/PushSharp.Core.AssemblyInfo.cs" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

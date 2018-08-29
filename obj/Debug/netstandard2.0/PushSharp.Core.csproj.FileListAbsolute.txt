@@ -1,0 +1,9 @@
+/Users/mro/dev/PushSharp.Core/bin/Debug/netstandard2.0/PushSharp.Core.deps.json
+/Users/mro/dev/PushSharp.Core/bin/Debug/netstandard2.0/PushSharp.Core.dll
+/Users/mro/dev/PushSharp.Core/bin/Debug/netstandard2.0/PushSharp.Core.pdb
+/Users/mro/dev/PushSharp.Core/obj/Debug/netstandard2.0/PushSharp.Core.csproj.CoreCompileInputs.cache
+/Users/mro/dev/PushSharp.Core/obj/Debug/netstandard2.0/PushSharp.Core.AssemblyInfoInputs.cache
+/Users/mro/dev/PushSharp.Core/obj/Debug/netstandard2.0/PushSharp.Core.AssemblyInfo.cs
+/Users/mro/dev/PushSharp.Core/obj/Debug/netstandard2.0/PushSharp.Core.dll
+/Users/mro/dev/PushSharp.Core/obj/Debug/netstandard2.0/PushSharp.Core.pdb
+/Users/mro/dev/PushSharp.Core/obj/Debug/netstandard2.0/PushSharp.Core.csprojResolveAssemblyReference.cache
